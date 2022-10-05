@@ -1,3 +1,7 @@
+body{
+  background-image: url(https://uem.edu.in/app/themes/iem-group-wp-theme/dist/images/courses_background.jpg);
+}
+
 /* Header */
 .headerdiv {
   height: 100px;
