@@ -288,3 +288,61 @@ body{
 .dataasked {
   font-weight: bold;
 }
+@media (max-width: 1028px) {
+  .headerdiv {
+    height: 118px;
+    background-color: #1C3879;
+    position: relative;
+  }
+
+  .collname {
+    color: white;
+    font-family: Poppins;
+    font-weight: bolder;
+    font-size: 1.5rem;
+    left: -15px;
+    /* padding-left: 15px; */
+    padding-top: 5px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+  }
+
+  .address {
+    color: white;
+    font-size: 0.6rem;
+    font-family: Poppins;
+    font-weight: 400;
+    left: -15px;
+    /* padding-left: 15px; */
+    padding-top: 3px;
+  }
+
+  .ERP {
+    position: absolute;
+    right: 4px;
+    top: 1px;
+    font-size: 8px;
+    font-family: Poppins;
+    color: #DFD3C3;
+    padding-top: 0;
+    font-weight: 400;
+  }
+
+  .ac-erp {
+    padding-left: 0;
+  }
+
+  .erp-para {
+    padding-left: 0;
+    width: 410px;
+  }
+
+  .login-form-1 {
+    left: -15px;
+    margin-bottom: 40px;
+  }
+
+  .texts {
+    margin-top: -10px;
+  }
+}
