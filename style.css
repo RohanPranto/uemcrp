@@ -288,7 +288,7 @@ body{
 .dataasked {
   font-weight: bold;
 }
-@media (max-width: 1028px) {
+@media (max-width: 768px) {
   .headerdiv {
     height: 118px;
     background-color: #1C3879;
