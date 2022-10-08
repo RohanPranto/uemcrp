@@ -1,4 +1,4 @@
-body{
+body {
   background-image: url(https://uem.edu.in/app/themes/iem-group-wp-theme/dist/images/courses_background.jpg);
 }
 
@@ -55,7 +55,6 @@ body{
 
 .landpage-container {
   padding-top: 20px;
-  padding-left: 40px;
 }
 
 .ac-erp {
@@ -78,10 +77,6 @@ body{
 }
 
 /* login */
-.login-container {
-  margin-top: 3px;
-}
-
 .login-form-1 {
   height: 450px;
   margin-top: 30px;
@@ -288,7 +283,8 @@ body{
 .dataasked {
   font-weight: bold;
 }
-@media screen (max-width: 360px) {
+
+@media only screen and (max-width: 1028px) {
   .headerdiv {
     height: 120px;
     background-color: #1C3879;
