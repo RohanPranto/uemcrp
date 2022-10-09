@@ -284,7 +284,7 @@ body {
   font-weight: bold;
 }
 
-@media only screen and (max-width: 356px) {
+@media only screen and (max-width: 640px) {
   .headerdiv {
     height: auto;
     background-color: #1C3879;
