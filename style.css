@@ -280,7 +280,9 @@ body {
 .resultid {
   font-family: Poppins;
 }
-
+.form-control{
+    text-align:center;
+}
 .dataasked, .datagiven {
   font-size: 25px;
 }
