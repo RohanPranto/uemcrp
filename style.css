@@ -40,7 +40,9 @@ body {
   padding-top: 0;
   font-weight: 400;
 }
-
+.form-control{
+    text-align:center;
+}
 .edulink {
   position: absolute;
   right: 5px;
