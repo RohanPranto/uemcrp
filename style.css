@@ -65,7 +65,10 @@ body {
   font-size: 30px;
   padding-left: 100px;
 }
-
+.login-form-1 {
+    left: 0;
+    text-align: center;
+  }
 .texts {
   margin-top: 30px;
 }
