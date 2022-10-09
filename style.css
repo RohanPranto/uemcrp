@@ -295,7 +295,7 @@ display:inline-block;
   font-weight: bold;
 }
 
-@media only screen and (max-width: 1028px) {
+/* @media only screen and (max-width: 1028px) {
   .headerdiv {
     height: 120px;
     background-color: #1C3879;
@@ -351,3 +351,4 @@ display:inline-block;
     margin-top: -10px;
   }
 }
+ */
