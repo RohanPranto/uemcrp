@@ -8,27 +8,7 @@ body {
   background-color: #1C3879;
   position: relative;
 }
-/* ********************************************************************** */
-.login-form-1{
-  display:inline-block;
-  position:relative;
-  top:-510px;
-  margin-left:600px;
 
-}
-.erp-para {
-  width: 550px;
-  font-size: 20px;
-  padding-left: 100px;
-  font-family: open-sans;
-  text-align: justify;
-}
-.texts {
-  margin-top: 30px;
-display:inline-block;
-}
-
-/* ********************************************************************** */
 .collname {
   color: white;
   font-family: Poppins;
@@ -84,8 +64,17 @@ display:inline-block;
   padding-left: 100px;
 }
 
+.texts {
+  margin-top: 30px;
+}
 
-
+.erp-para {
+  width: 550px;
+  font-size: 20px;
+  padding-left: 100px;
+  font-family: open-sans;
+  text-align: justify;
+}
 
 /* login */
 .login-form-1 {
@@ -295,7 +284,7 @@ display:inline-block;
   font-weight: bold;
 }
 
-/* @media only screen and (max-width: 1028px) {
+@media only screen and (max-width: 1028px) {
   .headerdiv {
     height: 120px;
     background-color: #1C3879;
@@ -351,4 +340,3 @@ display:inline-block;
     margin-top: -10px;
   }
 }
- */
