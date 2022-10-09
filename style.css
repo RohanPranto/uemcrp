@@ -284,9 +284,9 @@ body {
   font-weight: bold;
 }
 
-@media only screen and (max-width: 1028px) {
+@media only screen and (max-width: 356px) {
   .headerdiv {
-    height: 120px;
+    height: auto;
     background-color: #1C3879;
     position: relative;
     width: 100%;
@@ -297,8 +297,8 @@ body {
     font-family: Poppins;
     font-weight: bolder;
     font-size: 1.5rem;
-    padding-top: 5px;
-    padding-bottom: 0;
+    padding-top: 2%;
+    padding-bottom: 2%;
     margin-bottom: 0;
     padding-left: 4%;
   }
@@ -307,22 +307,9 @@ body {
     display: none;
   }
 
-  .ERP {
-    display: none;
-    /* position: absolute;
-    right: 4px;
-    top: 1px;
-    font-size: 8px;
-    font-family: Poppins;
-    color: #DFD3C3;
-    padding-top: 0;
-    font-weight: 400; */
-  }
-
   .ac-erp {
-    /* padding-left: 0;
-    padding-top: 10px; */
-    display: none;
+    display:none;
+    
   }
 
   .erp-para {
@@ -338,5 +325,9 @@ body {
 
   .texts {
     margin-top: -10px;
+  }
+  .login-container{
+       text-align:center;
+       width:90%;
   }
 }
